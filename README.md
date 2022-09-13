@@ -1,0 +1,2 @@
+# HashDog
+Hash Cracking tool 
