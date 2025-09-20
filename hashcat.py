@@ -1,7 +1,7 @@
 #HashCat Helping tool thats help you to crack passwords easily 
 #developed by mohammad zim
 #Github: Mr-Destroyer
-#Facebook: Faisal Iqbal (Untitled)
+#Facebook: Faisal Iqbal (Abdullah)
 
 
 import os
